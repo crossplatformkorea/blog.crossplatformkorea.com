@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://crossplatformkorea.com/en/blog</id>
+    <id>https://blog.crossplatformkorea.com/en/blog</id>
     <title>Cross-Platform Korea Blog</title>
     <updated>2024-08-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://crossplatformkorea.com/en/blog"/>
+    <link rel="alternate" href="https://blog.crossplatformkorea.com/en/blog"/>
     <subtitle>Cross-Platform Korea Blog</subtitle>
-    <icon>https://crossplatformkorea.com/en/img/favicon.ico</icon>
+    <icon>https://blog.crossplatformkorea.com/en/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[샌드버드 SDK의 타입 정의는 어떻게 빌드되고 있을까?]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2024-07-12-new-architecture-meetup</id>
-        <link href="https://crossplatformkorea.com/en/blog/2024-07-12-new-architecture-meetup"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2024-07-12-new-architecture-meetup</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2024-07-12-new-architecture-meetup"/>
         <updated>2024-08-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[크로스플랫폼 코리아 8월 밋업 영상입니다.]]></summary>
         <content type="html"><![CDATA[<p>크로스플랫폼 코리아 8월 밋업 영상입니다.
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[React Native New Architecture 라이브러리 제작]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2024-07-31-new-architecture-meetup</id>
-        <link href="https://crossplatformkorea.com/en/blog/2024-07-31-new-architecture-meetup"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2024-07-31-new-architecture-meetup</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2024-07-31-new-architecture-meetup"/>
         <updated>2024-07-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[크로스플랫폼 코리아 6월 밋업 영상입니다.]]></summary>
         <content type="html"><![CDATA[<p>크로스플랫폼 코리아 6월 밋업 영상입니다.
@@ -56,8 +56,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Expo Module 만들기]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2024-05-28-expo-module</id>
-        <link href="https://crossplatformkorea.com/en/blog/2024-05-28-expo-module"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2024-05-28-expo-module</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2024-05-28-expo-module"/>
         <updated>2024-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Expo로 네이티브 모듈을 만들어보는 영상입니다.]]></summary>
         <content type="html"><![CDATA[<p>Expo로 네이티브 모듈을 만들어보는 영상입니다.
@@ -80,8 +80,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT 코드리뷰]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2024-05-26-gpt-codereview</id>
-        <link href="https://crossplatformkorea.com/en/blog/2024-05-26-gpt-codereview"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2024-05-26-gpt-codereview</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2024-05-26-gpt-codereview"/>
         <updated>2024-05-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[코드 리뷰를 GPT가 대신 해주는 프로젝트를 소개합니다.]]></summary>
         <content type="html"><![CDATA[<p>코드 리뷰를 GPT가 대신 해주는 프로젝트를 소개합니다.</p>
@@ -102,8 +102,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Expo SDK 51 업데이트]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2024-05-23-expo-51</id>
-        <link href="https://crossplatformkorea.com/en/blog/2024-05-23-expo-51"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2024-05-23-expo-51</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2024-05-23-expo-51"/>
         <updated>2024-05-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Expo SDK 51 업데이트 내용 브리핑입니다.]]></summary>
         <content type="html"><![CDATA[<p>Expo SDK 51 업데이트 내용 브리핑입니다.</p>
@@ -123,8 +123,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[리액트네이티브 0.74 업데이트]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2024-05-20-react-native-0.74</id>
-        <link href="https://crossplatformkorea.com/en/blog/2024-05-20-react-native-0.74"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2024-05-20-react-native-0.74</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2024-05-20-react-native-0.74"/>
         <updated>2024-05-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[리액트네이티브 0.74 업데이트 내용 브리핑입니다.]]></summary>
         <content type="html"><![CDATA[<p>리액트네이티브 0.74 업데이트 내용 브리핑입니다.</p>
@@ -141,8 +141,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[새로운 React Native IDE 소개]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2024-05-19-react-native-ide</id>
-        <link href="https://crossplatformkorea.com/en/blog/2024-05-19-react-native-ide"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2024-05-19-react-native-ide</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2024-05-19-react-native-ide"/>
         <updated>2024-05-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[리액트네이티브 개발자분들에게 좋은 소식입니다. Software Mansion에서 아주 혁신적인 React Native 용 IDE를 출시했습니다 🎉]]></summary>
         <content type="html"><![CDATA[<p>리액트네이티브 개발자분들에게 좋은 소식입니다. Software Mansion에서 아주 혁신적인 React Native 용 IDE를 출시했습니다 🎉</p>
@@ -162,12 +162,12 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Guidance Document for Development Beginners]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2024-01-29-chobo-intro</id>
-        <link href="https://crossplatformkorea.com/en/blog/2024-01-29-chobo-intro"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2024-01-29-chobo-intro</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2024-01-29-chobo-intro"/>
         <updated>2024-01-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I have compiled reference materials for those who are less familiar with app development. I hope the following blog posts will be helpful for beginners.]]></summary>
         <content type="html"><![CDATA[<p>I have compiled reference materials for those who are less familiar with app development. I hope the following blog posts will be helpful for beginners.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="blog-posts">Blog Posts<a class="hash-link" aria-label="Direct link to Blog Posts" title="Direct link to Blog Posts" href="https://crossplatformkorea.com/en/blog/2024-01-29-chobo-intro#blog-posts">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="blog-posts">Blog Posts<a class="hash-link" aria-label="Direct link to Blog Posts" title="Direct link to Blog Posts" href="https://blog.crossplatformkorea.com/en/blog/2024-01-29-chobo-intro#blog-posts">​</a></h3>
 <ul>
 <li><a href="https://medium.com/crossplatformkorea/%EC%95%B1-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8%EC%9A%A9-%EB%AC%B8%ED%97%8C-e676bfb2f998" target="_blank" rel="noopener noreferrer">Guidance Document for Development Beginners</a></li>
 <li><a href="https://medium.com/crossplatformkorea/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%9E%85%EB%AC%B8-1-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-baf69e8e663f" target="_blank" rel="noopener noreferrer">React Native Introduction 1 - TypeScript</a></li>
@@ -191,14 +191,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[October meetup]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2023-10-25-expo</id>
-        <link href="https://crossplatformkorea.com/en/blog/2023-10-25-expo"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2023-10-25-expo</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2023-10-25-expo"/>
         <updated>2023-10-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[In this meetup, we will explore the 7-year history of Expo's evolution and examine the latest changes and current state of Expo. Additionally, we will introduce Expo's newest features, such as EAS (Expo Application Services) and the Dev Client, and discuss the challenges encountered while using Expo and their solutions.]]></summary>
         <content type="html"><![CDATA[<p>In this meetup, we will explore the 7-year history of Expo's evolution and examine the latest changes and current state of Expo. Additionally, we will introduce Expo's newest features, such as EAS (Expo Application Services) and the Dev Client, and discuss the challenges encountered while using Expo and their solutions.</p>
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/q5tK2cW7Pn8" title="trpc 컨퍼런스" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe></div>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="our-memories">Our Memories<a class="hash-link" aria-label="Direct link to Our Memories" title="Direct link to Our Memories" href="https://crossplatformkorea.com/en/blog/2023-10-25-expo#our-memories">​</a></h3>
-<table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><img src="https://crossplatformkorea.com/en/assets/images/2023-10-25-expo-1-80753177394ca2b792aa1cb4646c4320.png" height="300" alt="expo-1"></td><td><img src="https://crossplatformkorea.com/en/assets/images/2023-10-25-expo-2-36e4781245fb9dc4bf6df45552f7cb92.png" height="300" alt="expo-2"></td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="our-memories">Our Memories<a class="hash-link" aria-label="Direct link to Our Memories" title="Direct link to Our Memories" href="https://blog.crossplatformkorea.com/en/blog/2023-10-25-expo#our-memories">​</a></h3>
+<table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><img src="https://blog.crossplatformkorea.com/en/assets/images/2023-10-25-expo-1-80753177394ca2b792aa1cb4646c4320.png" height="300" alt="expo-1"></td><td><img src="https://blog.crossplatformkorea.com/en/assets/images/2023-10-25-expo-2-36e4781245fb9dc4bf6df45552f7cb92.png" height="300" alt="expo-2"></td></tr></tbody></table>
 <div style="flex:1;margin-top:24px;margin-bottom:24px"><div class="adfit-middle-mobile-2023-10-01"></div></div>]]></content>
         <author>
             <name>hyochan</name>
@@ -211,8 +211,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[August meetup]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2023-08-09-trpc</id>
-        <link href="https://crossplatformkorea.com/en/blog/2023-08-09-trpc"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2023-08-09-trpc</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2023-08-09-trpc"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[At this conference, we delved deeply into introducing 'tRPC' and its usage. tRPC assists in constructing End-to-end typesafe APIs more efficiently. Through this technology, we discussed the specific ways in which project implementation can be simplified.]]></summary>
         <content type="html"><![CDATA[<p>At this conference, we delved deeply into introducing 'tRPC' and its usage. tRPC assists in constructing End-to-end typesafe APIs more efficiently. Through this technology, we discussed the specific ways in which project implementation can be simplified.</p>
@@ -231,8 +231,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[July meetup]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2023-07-19-blockchain</id>
-        <link href="https://crossplatformkorea.com/en/blog/2023-07-19-blockchain"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2023-07-19-blockchain</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2023-07-19-blockchain"/>
         <updated>2023-07-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[At our July meetup, there was a surprise blockchain seminar. It was an enlightening session where we delved into the current blockchain trends and learned about Sam Altman's ambitious project, Worldcoin. Many were taken aback when an announcement of listing was made just 5 days later on the 24th 😅.]]></summary>
         <content type="html"><![CDATA[<p>At our July meetup, there was a surprise blockchain seminar. It was an enlightening session where we delved into the current blockchain trends and learned about Sam Altman's ambitious project, Worldcoin. Many were taken aback when an <a href="https://www.coindeskkorea.com/news/articleView.html?idxno=92217" target="_blank" rel="noopener noreferrer">announcement of listing</a> was made just 5 days later on the 24th 😅.</p>
@@ -247,8 +247,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hermes 엔진이란]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2023-07-16-hermes</id>
-        <link href="https://crossplatformkorea.com/en/blog/2023-07-16-hermes"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2023-07-16-hermes</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2023-07-16-hermes"/>
         <updated>2023-07-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hermes is an open-source JavaScript engine developed by Facebook, specifically designed to improve the startup time of React Native apps. It was first introduced in React Native 0.60.4 in 2019.]]></summary>
         <content type="html"><![CDATA[<p>Hermes is an open-source JavaScript engine developed by Facebook, specifically designed to improve the startup time of React Native apps. It was first introduced in React Native 0.60.4 in 2019.</p>
@@ -270,8 +270,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[React Native New Architecture]]></title>
-        <id>https://crossplatformkorea.com/en/blog/2023-07-16-new-architecture</id>
-        <link href="https://crossplatformkorea.com/en/blog/2023-07-16-new-architecture"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/2023-07-16-new-architecture</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/2023-07-16-new-architecture"/>
         <updated>2023-07-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[React Native Architecture refers to the internal structure and operating principles of a React Native application. The initial architecture of React Native consisted of several main components, and over time, enhancements and updates were made to improve the performance and stability of the application. This explanation is based on information up to 2021.]]></summary>
         <content type="html"><![CDATA[<p><code>React Native Architecture</code> refers to the internal structure and operating principles of a React Native application. The initial architecture of React Native consisted of several main components, and over time, enhancements and updates were made to improve the performance and stability of the application. This explanation is based on information up to 2021.</p>
@@ -308,18 +308,18 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[June Meetup]]></title>
-        <id>https://crossplatformkorea.com/en/blog/meetup-20230628</id>
-        <link href="https://crossplatformkorea.com/en/blog/meetup-20230628"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/meetup-20230628</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/meetup-20230628"/>
         <updated>2023-06-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[At our June meetup, we continued our discussion from May about UI components, this time with a live coding session. We tackled the Accordion component, which is a bit more challenging and offers more points of consideration than a simple button.]]></summary>
         <content type="html"><![CDATA[<p>At our June meetup, we continued our discussion from May about UI components, this time with a live coding session. We tackled the Accordion component, which is a bit more challenging and offers more points of consideration than a simple button.</p>
 <p>We've brought back live coding to our meetups after a long hiatus. If you're interested in participating, we offer a presentation fee worth 150,000 KRW. As you'll see in our videos, our goal is not to intimidate, but rather to learn and help each other. We encourage you to apply in a relaxed manner.</p>
 <p><a href="https://forms.gle/x6oAt28FnepAAJtp6" target="_blank" rel="noopener noreferrer">Presentation application form</a></p>
 <p>Thank you.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="on-site-photo">On-site photo<a class="hash-link" aria-label="Direct link to On-site photo" title="Direct link to On-site photo" href="https://crossplatformkorea.com/en/blog/meetup-20230628#on-site-photo">​</a></h4>
-<img src="https://github.com/crossplatformkorea/crossplatformkorea.com/assets/27461460/a338f047-19ba-43bc-be1c-560070a6dc71" width="480">
-<img src="https://github.com/crossplatformkorea/crossplatformkorea.com/assets/27461460/ac91beb2-1548-4e8a-90fb-3b465a2c3387" width="480">
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="part-of-presentation-video">Part of Presentation Video<a class="hash-link" aria-label="Direct link to Part of Presentation Video" title="Direct link to Part of Presentation Video" href="https://crossplatformkorea.com/en/blog/meetup-20230628#part-of-presentation-video">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="on-site-photo">On-site photo<a class="hash-link" aria-label="Direct link to On-site photo" title="Direct link to On-site photo" href="https://blog.crossplatformkorea.com/en/blog/meetup-20230628#on-site-photo">​</a></h4>
+<img src="https://github.com/crossplatformkorea/blog.crossplatformkorea.com/assets/27461460/a338f047-19ba-43bc-be1c-560070a6dc71" width="480">
+<img src="https://github.com/crossplatformkorea/blog.crossplatformkorea.com/assets/27461460/ac91beb2-1548-4e8a-90fb-3b465a2c3387" width="480">
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="part-of-presentation-video">Part of Presentation Video<a class="hash-link" aria-label="Direct link to Part of Presentation Video" title="Direct link to Part of Presentation Video" href="https://blog.crossplatformkorea.com/en/blog/meetup-20230628#part-of-presentation-video">​</a></h4>
 <ul>
 <li><a href="https://youtu.be/zjiXDrMJ-R0" target="_blank" rel="noopener noreferrer">Live Coding UI Components - Part 1 (Feat. Accordion)</a></li>
 <li><a href="https://youtu.be/MLJ4gXdeDHg" target="_blank" rel="noopener noreferrer">Live Coding UI Components - Part 2 (Feat. Accordion)</a></li>
@@ -333,15 +333,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[May Meetup]]></title>
-        <id>https://crossplatformkorea.com/en/blog/meetup-20230531</id>
-        <link href="https://crossplatformkorea.com/en/blog/meetup-20230531"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/meetup-20230531</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/meetup-20230531"/>
         <updated>2023-05-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[In the May meetup, the author presented a thoughtful discourse on UI components and design systems for about an hour. The talk broadly covered crucial aspects we often overlook when developing numerous UI components and examined how to define functional sets and write props according to UI component design principles (user-centric, consistency, simplicity, feedback). Lastly, the importance of reducing all possible props or steps to maintain simplicity was underscored once again.]]></summary>
         <content type="html"><![CDATA[<p>In the May meetup, <a href="https://github.com/hyochan" target="_blank" rel="noopener noreferrer">the author</a> presented a thoughtful discourse on UI components and design systems for about an hour. The talk broadly covered crucial aspects we often overlook when developing numerous UI components and examined how to define functional sets and write props according to UI component design principles (user-centric, consistency, simplicity, feedback). Lastly, the importance of reducing all possible props or steps to maintain simplicity was underscored once again.</p>
 <p>Finally, we shared a <a href="https://www.youtube.com/shorts/2RPtB9LgfIw" target="_blank" rel="noopener noreferrer">short clip</a> on how to prevent re-rendering caused by inline styles in React. If you found this useful, please don't forget to <code>subscribe</code>, <code>like</code>, and turn <code>notifications</code> on.</p>
 <p>"The state of perfection is not when there is nothing more to add, but when there is nothing left to take away," is a widely known quote from "The Little Prince" written by the French author Antoine de Saint-Exupéry. It emphasizes the importance of balance and simplicity in various aspects of functionality, design, and life.</p>
 <p>We offer a presentation fee of $150 to our presenters, and the presentation contents can be casually delivered at your discretion for 20 to 50 minutes. If you're interested, please proceed through our <a href="https://forms.gle/x6oAt28FnepAAJtp6" target="_blank" rel="noopener noreferrer">presentation application form</a>. Thank you 🙇🏻‍♂️</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="part-of-presentation-video">Part of Presentation Video<a class="hash-link" aria-label="Direct link to Part of Presentation Video" title="Direct link to Part of Presentation Video" href="https://crossplatformkorea.com/en/blog/meetup-20230531#part-of-presentation-video">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="part-of-presentation-video">Part of Presentation Video<a class="hash-link" aria-label="Direct link to Part of Presentation Video" title="Direct link to Part of Presentation Video" href="https://blog.crossplatformkorea.com/en/blog/meetup-20230531#part-of-presentation-video">​</a></h4>
 <p><a href="https://www.youtube.com/watch?v=Zbph_vQwGc0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=Zbph_vQwGc0</a></p>
 <div style="flex:1;margin-top:24px;margin-bottom:24px"><div class="adfit-middle-mobile-2023-05-31"></div></div>]]></content>
         <author>
@@ -352,8 +352,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[April Meetup]]></title>
-        <id>https://crossplatformkorea.com/en/blog/meetup-20230426</id>
-        <link href="https://crossplatformkorea.com/en/blog/meetup-20230426"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/meetup-20230426</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/meetup-20230426"/>
         <updated>2023-04-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[In the April meetup, we continued with content related to Microsoft's MAUI following the February Flutter meetup. First, Park Tae-sung from Idea Sam shared his thoughts on MAUI as a React Native developer.]]></summary>
         <content type="html"><![CDATA[<p>In the April meetup, we continued with content related to <a href="https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-7.0" target="_blank" rel="noopener noreferrer">Microsoft's MAUI</a> following the February Flutter meetup. First, Park Tae-sung from Idea Sam shared his <a href="https://www.youtube.com/watch?v=9JKgfVz_Q_4" target="_blank" rel="noopener noreferrer">thoughts on MAUI as a React Native developer</a>.</p>
@@ -368,8 +368,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[March Meetup]]></title>
-        <id>https://crossplatformkorea.com/en/blog/meetup-20230329</id>
-        <link href="https://crossplatformkorea.com/en/blog/meetup-20230329"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/meetup-20230329</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/meetup-20230329"/>
         <updated>2023-03-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Florian Ludot, the CTO of Avanssion Inc., gave a presentation introducing Storybook, a tool that helps developers build scalable and effective services. During the presentation, he guided the audience through the Storybook workflow, from the initial design phase to implementation, deployment, publishing and integration of component libraries, and shared tips and best practices for iterating products at lightning speed. He also emphasized the importance of innovating the UI development process and taking projects to the next level.]]></summary>
         <content type="html"><![CDATA[<p>Florian Ludot, the CTO of Avanssion Inc., gave a presentation introducing Storybook, a tool that helps developers build scalable and effective services. During the presentation, he guided the audience through the Storybook workflow, from the initial design phase to implementation, deployment, publishing and integration of component libraries, and shared tips and best practices for iterating products at lightning speed. He also emphasized the importance of innovating the UI development process and taking projects to the next level.</p>
@@ -391,8 +391,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[February Meetup]]></title>
-        <id>https://crossplatformkorea.com/en/blog/meetup-20230222</id>
-        <link href="https://crossplatformkorea.com/en/blog/meetup-20230222"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/meetup-20230222</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/meetup-20230222"/>
         <updated>2023-02-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[At this meetup, there was a small presentation on the Flutter GetX pattern. Then, we shared the toy Flutter project which was developed to manage meetup donations. The project name is WeCount and sourcecode is on Github.]]></summary>
         <content type="html"><![CDATA[<p>At this meetup, there was a small <a href="https://youtu.be/vD8ldHv5D6Q" target="_blank" rel="noopener noreferrer">presentation on the Flutter GetX pattern</a>. Then, we shared the toy Flutter project which was developed to manage meetup donations. The project name is <code>WeCount</code> and <a href="https://github.com/crossplatformkorea/wecount" target="_blank" rel="noopener noreferrer">sourcecode is on Github</a>.</p>
@@ -407,8 +407,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[January Meetup]]></title>
-        <id>https://crossplatformkorea.com/en/blog/meetup-20230125</id>
-        <link href="https://crossplatformkorea.com/en/blog/meetup-20230125"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/meetup-20230125</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/meetup-20230125"/>
         <updated>2023-01-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The first Cross-Platform Korea meetup was held. In 2023, there should be more beneficial knowledge sharing time.]]></summary>
         <content type="html"><![CDATA[<p>The first Cross-Platform Korea meetup was held. In 2023, there should be more beneficial knowledge sharing time.
@@ -429,8 +429,8 @@ First of all, since it was the first day, I, the organizer, continued my present
     </entry>
     <entry>
         <title type="html"><![CDATA[November Meetup]]></title>
-        <id>https://crossplatformkorea.com/en/blog/meetup-20221130</id>
-        <link href="https://crossplatformkorea.com/en/blog/meetup-20221130"/>
+        <id>https://blog.crossplatformkorea.com/en/blog/meetup-20221130</id>
+        <link href="https://blog.crossplatformkorea.com/en/blog/meetup-20221130"/>
         <updated>2022-11-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[At this meetup, presentations were made in groups determined at the previous meetup. We would like to thank the presenters again for their hard work.]]></summary>
         <content type="html"><![CDATA[<p>At this meetup, presentations were made in groups determined at the previous meetup. We would like to thank the presenters again for their hard work.</p>

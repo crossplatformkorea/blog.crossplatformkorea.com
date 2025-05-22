@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Cross-Platform Korea Blog</title>
-        <link>https://crossplatformkorea.com/blog</link>
+        <link>https://blog.crossplatformkorea.com/blog</link>
         <description>Cross-Platform Korea Blog</description>
         <lastBuildDate>Wed, 28 Aug 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>ko</language>
         <item>
             <title><![CDATA[샌드버드 SDK의 타입 정의는 어떻게 빌드되고 있을까?]]></title>
-            <link>https://crossplatformkorea.com/blog/2024-07-12-new-architecture-meetup</link>
-            <guid>https://crossplatformkorea.com/blog/2024-07-12-new-architecture-meetup</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2024-07-12-new-architecture-meetup</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2024-07-12-new-architecture-meetup</guid>
             <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[크로스플랫폼 코리아 8월 밋업 영상입니다.]]></description>
             <content:encoded><![CDATA[<p>크로스플랫폼 코리아 8월 밋업 영상입니다.
@@ -29,8 +29,8 @@
         </item>
         <item>
             <title><![CDATA[React Native New Architecture 라이브러리 제작]]></title>
-            <link>https://crossplatformkorea.com/blog/2024-07-31-new-architecture-meetup</link>
-            <guid>https://crossplatformkorea.com/blog/2024-07-31-new-architecture-meetup</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2024-07-31-new-architecture-meetup</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2024-07-31-new-architecture-meetup</guid>
             <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[크로스플랫폼 코리아 6월 밋업 영상입니다.]]></description>
             <content:encoded><![CDATA[<p>크로스플랫폼 코리아 6월 밋업 영상입니다.
@@ -49,8 +49,8 @@
         </item>
         <item>
             <title><![CDATA[Expo Module 만들기]]></title>
-            <link>https://crossplatformkorea.com/blog/2024-05-28-expo-module</link>
-            <guid>https://crossplatformkorea.com/blog/2024-05-28-expo-module</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2024-05-28-expo-module</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2024-05-28-expo-module</guid>
             <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Expo로 네이티브 모듈을 만들어보는 영상입니다.]]></description>
             <content:encoded><![CDATA[<p>Expo로 네이티브 모듈을 만들어보는 영상입니다.
@@ -69,8 +69,8 @@
         </item>
         <item>
             <title><![CDATA[GPT 코드리뷰]]></title>
-            <link>https://crossplatformkorea.com/blog/2024-05-26-gpt-codereview</link>
-            <guid>https://crossplatformkorea.com/blog/2024-05-26-gpt-codereview</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2024-05-26-gpt-codereview</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2024-05-26-gpt-codereview</guid>
             <pubDate>Sun, 26 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[코드 리뷰를 GPT가 대신 해주는 프로젝트를 소개합니다.]]></description>
             <content:encoded><![CDATA[<p>코드 리뷰를 GPT가 대신 해주는 프로젝트를 소개합니다.</p>
@@ -87,8 +87,8 @@
         </item>
         <item>
             <title><![CDATA[Expo SDK 51 업데이트]]></title>
-            <link>https://crossplatformkorea.com/blog/2024-05-23-expo-51</link>
-            <guid>https://crossplatformkorea.com/blog/2024-05-23-expo-51</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2024-05-23-expo-51</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2024-05-23-expo-51</guid>
             <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Expo SDK 51 업데이트 내용 브리핑입니다.]]></description>
             <content:encoded><![CDATA[<p>Expo SDK 51 업데이트 내용 브리핑입니다.</p>
@@ -104,8 +104,8 @@
         </item>
         <item>
             <title><![CDATA[리액트네이티브 0.74 업데이트]]></title>
-            <link>https://crossplatformkorea.com/blog/2024-05-20-react-native-0.74</link>
-            <guid>https://crossplatformkorea.com/blog/2024-05-20-react-native-0.74</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2024-05-20-react-native-0.74</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2024-05-20-react-native-0.74</guid>
             <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[리액트네이티브 0.74 업데이트 내용 브리핑입니다.]]></description>
             <content:encoded><![CDATA[<p>리액트네이티브 0.74 업데이트 내용 브리핑입니다.</p>
@@ -118,8 +118,8 @@
         </item>
         <item>
             <title><![CDATA[새로운 React Native IDE 소개]]></title>
-            <link>https://crossplatformkorea.com/blog/2024-05-19-react-native-ide</link>
-            <guid>https://crossplatformkorea.com/blog/2024-05-19-react-native-ide</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2024-05-19-react-native-ide</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2024-05-19-react-native-ide</guid>
             <pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[리액트네이티브 개발자분들에게 좋은 소식입니다. Software Mansion에서 아주 혁신적인 React Native 용 IDE를 출시했습니다 🎉]]></description>
             <content:encoded><![CDATA[<p>리액트네이티브 개발자분들에게 좋은 소식입니다. Software Mansion에서 아주 혁신적인 React Native 용 IDE를 출시했습니다 🎉</p>
@@ -135,12 +135,12 @@
         </item>
         <item>
             <title><![CDATA[개발 입문자를 위한 안내 문서]]></title>
-            <link>https://crossplatformkorea.com/blog/2024-01-29-chobo-intro</link>
-            <guid>https://crossplatformkorea.com/blog/2024-01-29-chobo-intro</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2024-01-29-chobo-intro</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2024-01-29-chobo-intro</guid>
             <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[앱 개발에 대해 잘 모르시는 분들을 위해 참고 자료를 작성해 보았습니다. 입문자분들께 아래 블로그 글이 도움이 되시길 바랍니다.]]></description>
             <content:encoded><![CDATA[<p>앱 개발에 대해 잘 모르시는 분들을 위해 참고 자료를 작성해 보았습니다. 입문자분들께 아래 블로그 글이 도움이 되시길 바랍니다.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="블로그-글">블로그 글<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://crossplatformkorea.com/blog/2024-01-29-chobo-intro#%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="블로그-글">블로그 글<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://blog.crossplatformkorea.com/blog/2024-01-29-chobo-intro#%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80">​</a></h3>
 <ul>
 <li><a href="https://medium.com/crossplatformkorea/%EC%95%B1-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8%EC%9A%A9-%EB%AC%B8%ED%97%8C-e676bfb2f998" target="_blank" rel="noopener noreferrer">개발 입문자를 위한 안내 문서</a></li>
 <li><a href="https://medium.com/crossplatformkorea/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%9E%85%EB%AC%B8-1-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-baf69e8e663f" target="_blank" rel="noopener noreferrer">리액트네이티브 입문 1 - 타입스크립트</a></li>
@@ -160,14 +160,14 @@
         </item>
         <item>
             <title><![CDATA[10월 밋업]]></title>
-            <link>https://crossplatformkorea.com/blog/2023-10-25-expo</link>
-            <guid>https://crossplatformkorea.com/blog/2023-10-25-expo</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2023-10-25-expo</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2023-10-25-expo</guid>
             <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[해당 밋업에서는 7년 간의 Expo 변천사를 알아보고 최신 Expo의 변화와 현황을 알아봅니다. 또한, Expo의 최신 기능인 EAS와 Dev Client에 대해서도 소개하며, Expo를 사용하면서 마주한 어려움과 해결 방법에 대해 이야기 합니다.]]></description>
             <content:encoded><![CDATA[<p>해당 밋업에서는 7년 간의 Expo 변천사를 알아보고 최신 Expo의 변화와 현황을 알아봅니다. 또한, Expo의 최신 기능인 EAS와 Dev Client에 대해서도 소개하며, Expo를 사용하면서 마주한 어려움과 해결 방법에 대해 이야기 합니다.</p>
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/q5tK2cW7Pn8" title="trpc 컨퍼런스" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe></div>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="우리의-추억">우리의 추억<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://crossplatformkorea.com/blog/2023-10-25-expo#%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%B6%94%EC%96%B5">​</a></h3>
-<table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><img src="https://crossplatformkorea.com/assets/images/2023-10-25-expo-1-80753177394ca2b792aa1cb4646c4320.png" height="300" alt="expo-1"></td><td><img src="https://crossplatformkorea.com/assets/images/2023-10-25-expo-2-36e4781245fb9dc4bf6df45552f7cb92.png" height="300" alt="expo-2"></td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="우리의-추억">우리의 추억<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://blog.crossplatformkorea.com/blog/2023-10-25-expo#%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%B6%94%EC%96%B5">​</a></h3>
+<table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><img src="https://blog.crossplatformkorea.com/assets/images/2023-10-25-expo-1-80753177394ca2b792aa1cb4646c4320.png" height="300" alt="expo-1"></td><td><img src="https://blog.crossplatformkorea.com/assets/images/2023-10-25-expo-2-36e4781245fb9dc4bf6df45552f7cb92.png" height="300" alt="expo-2"></td></tr></tbody></table>
 <div style="flex:1;margin-top:24px;margin-bottom:24px"><div class="adfit-middle-mobile-2023-10-01"></div></div>]]></content:encoded>
             <category>Meetup</category>
             <category>Expo</category>
@@ -176,8 +176,8 @@
         </item>
         <item>
             <title><![CDATA[8월 밋업]]></title>
-            <link>https://crossplatformkorea.com/blog/2023-08-09-trpc</link>
-            <guid>https://crossplatformkorea.com/blog/2023-08-09-trpc</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2023-08-09-trpc</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2023-08-09-trpc</guid>
             <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[이번 컨퍼런스에서는 'tRPC'의 소개와 그 사용법을 중심으로 깊이 있는 내용을 다루었습니다. tRPC는 End-to-end typesafe API를 더욱 효율적으로 구축할 수 있게 도와주는 기술로, 이를 통해 프로젝트 구현이 어떻게 간소화될 수 있는지에 대한 구체적인 방법들이 소개되었습니다.]]></description>
             <content:encoded><![CDATA[<p>이번 컨퍼런스에서는 'tRPC'의 소개와 그 사용법을 중심으로 깊이 있는 내용을 다루었습니다. tRPC는 End-to-end typesafe API를 더욱 효율적으로 구축할 수 있게 도와주는 기술로, 이를 통해 프로젝트 구현이 어떻게 간소화될 수 있는지에 대한 구체적인 방법들이 소개되었습니다.</p>
@@ -192,8 +192,8 @@
         </item>
         <item>
             <title><![CDATA[7월 밋업]]></title>
-            <link>https://crossplatformkorea.com/blog/2023-07-19-blockchain</link>
-            <guid>https://crossplatformkorea.com/blog/2023-07-19-blockchain</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2023-07-19-blockchain</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2023-07-19-blockchain</guid>
             <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[7월 밋업에는 깜짝 블록체인 세미나가 있었습니다. 현재 블록체인 트랜드와 샘 알트먼의 야심작 월드코인에 대해서도 알아볼 수 있는 유익한 시간이었습니다. 그리고 5일 후인 24일에 상장 발표를 하니 많이들 놀라신 것 같습니다 😅]]></description>
             <content:encoded><![CDATA[<p>7월 밋업에는 깜짝 블록체인 세미나가 있었습니다. 현재 블록체인 트랜드와 샘 알트먼의 야심작 월드코인에 대해서도 알아볼 수 있는 유익한 시간이었습니다. 그리고 5일 후인 24일에 <a href="https://www.coindeskkorea.com/news/articleView.html?idxno=92217" target="_blank" rel="noopener noreferrer">상장 발표</a>를 하니 많이들 놀라신 것 같습니다 😅</p>
@@ -204,8 +204,8 @@
         </item>
         <item>
             <title><![CDATA[Hermes 엔진이란?]]></title>
-            <link>https://crossplatformkorea.com/blog/2023-07-16-hermes</link>
-            <guid>https://crossplatformkorea.com/blog/2023-07-16-hermes</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2023-07-16-hermes</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2023-07-16-hermes</guid>
             <pubDate>Sun, 16 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Hermes는 Facebook에서 개발한 오픈 소스 JavaScript 엔진으로, 특히 React Native 앱의 시작 시간을 개선하기 위해 설계되었습니다. 2019년 React Native 0.60.4에서 처음 도입되었습니다.]]></description>
             <content:encoded><![CDATA[<p>Hermes는 Facebook에서 개발한 오픈 소스 JavaScript 엔진으로, 특히 React Native 앱의 시작 시간을 개선하기 위해 설계되었습니다. 2019년 React Native 0.60.4에서 처음 도입되었습니다.</p>
@@ -223,8 +223,8 @@
         </item>
         <item>
             <title><![CDATA[리엑트 네이티브 리아키텍쳐]]></title>
-            <link>https://crossplatformkorea.com/blog/2023-07-16-new-architecture</link>
-            <guid>https://crossplatformkorea.com/blog/2023-07-16-new-architecture</guid>
+            <link>https://blog.crossplatformkorea.com/blog/2023-07-16-new-architecture</link>
+            <guid>https://blog.crossplatformkorea.com/blog/2023-07-16-new-architecture</guid>
             <pubDate>Sun, 16 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[React Native Architecture는 React Native 애플리케이션의 내부 구조와 동작 원리를 설명하는 용어입니다. React Native의 초기 아키텍처는 몇 가지 주요 구성 요소로 구성되었으며, 시간이 지나면서 개선과 업데이트가 이루어져 애플리케이션의 성능과 안정성을 향상시켰습니다. 2021년까지의 정보를 기반으로 설명하겠습니다.]]></description>
             <content:encoded><![CDATA[<p><code>React Native Architecture</code>는 React Native 애플리케이션의 내부 구조와 동작 원리를 설명하는 용어입니다. React Native의 초기 아키텍처는 몇 가지 주요 구성 요소로 구성되었으며, 시간이 지나면서 개선과 업데이트가 이루어져 애플리케이션의 성능과 안정성을 향상시켰습니다. 2021년까지의 정보를 기반으로 설명하겠습니다.</p>
@@ -257,18 +257,18 @@
         </item>
         <item>
             <title><![CDATA[6월 밋업]]></title>
-            <link>https://crossplatformkorea.com/blog/meetup-20230628</link>
-            <guid>https://crossplatformkorea.com/blog/meetup-20230628</guid>
+            <link>https://blog.crossplatformkorea.com/blog/meetup-20230628</link>
+            <guid>https://blog.crossplatformkorea.com/blog/meetup-20230628</guid>
             <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[6월 밋업에서는 5월에 진행한 UI 컴포넌트에 대한 고찰을 이어, 이번에는 라이브 코딩 세션을 진행하였습니다. 버튼보다는 조금 더 복잡하고, 고려해야 할 사항이 많은 Accordion 컴포넌트에 대해 다뤘습니다.]]></description>
             <content:encoded><![CDATA[<p>6월 밋업에서는 5월에 진행한 UI 컴포넌트에 대한 고찰을 이어, 이번에는 라이브 코딩 세션을 진행하였습니다. 버튼보다는 조금 더 복잡하고, 고려해야 할 사항이 많은 Accordion 컴포넌트에 대해 다뤘습니다.</p>
 <p>몇년 만에 다시 밋업에 라이브 코딩을 해보게 되었습니다. 혹시라도 밋업에서 동일하게 진행해보고 싶으신 분은 150,000원의 발표비를 별도로 제공해드립니다. 아래 동영상에서 볼 수 있듯이, 두려움을 주는 분위기가 아닌, 서로 배우고 돕는 분위기입니다. 편안하게 지원해 주시기 바랍니다.</p>
 <p><a href="https://forms.gle/x6oAt28FnepAAJtp6" target="_blank" rel="noopener noreferrer">발표 지원서</a></p>
 <p>감사합니다.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="현장-사진">현장 사진<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://crossplatformkorea.com/blog/meetup-20230628#%ED%98%84%EC%9E%A5-%EC%82%AC%EC%A7%84">​</a></h4>
-<img src="https://github.com/crossplatformkorea/crossplatformkorea.com/assets/27461460/a338f047-19ba-43bc-be1c-560070a6dc71" width="480">
-<img src="https://github.com/crossplatformkorea/crossplatformkorea.com/assets/27461460/ac91beb2-1548-4e8a-90fb-3b465a2c3387" width="480">
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="발표-일부분-동영상">발표 일부분 동영상<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://crossplatformkorea.com/blog/meetup-20230628#%EB%B0%9C%ED%91%9C-%EC%9D%BC%EB%B6%80%EB%B6%84-%EB%8F%99%EC%98%81%EC%83%81">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="현장-사진">현장 사진<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://blog.crossplatformkorea.com/blog/meetup-20230628#%ED%98%84%EC%9E%A5-%EC%82%AC%EC%A7%84">​</a></h4>
+<img src="https://github.com/crossplatformkorea/blog.crossplatformkorea.com/assets/27461460/a338f047-19ba-43bc-be1c-560070a6dc71" width="480">
+<img src="https://github.com/crossplatformkorea/blog.crossplatformkorea.com/assets/27461460/ac91beb2-1548-4e8a-90fb-3b465a2c3387" width="480">
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="발표-일부분-동영상">발표 일부분 동영상<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://blog.crossplatformkorea.com/blog/meetup-20230628#%EB%B0%9C%ED%91%9C-%EC%9D%BC%EB%B6%80%EB%B6%84-%EB%8F%99%EC%98%81%EC%83%81">​</a></h4>
 <ul>
 <li><a href="https://youtu.be/zjiXDrMJ-R0" target="_blank" rel="noopener noreferrer">UI 컴포넌트 라이브 코딩 - 1편 (Feat. Accordion)</a></li>
 <li><a href="https://youtu.be/MLJ4gXdeDHg" target="_blank" rel="noopener noreferrer">UI 컴포넌트 라이브 코딩 - 2편 (Feat. Accordion)</a></li>
@@ -278,23 +278,23 @@
         </item>
         <item>
             <title><![CDATA[5월 밋업]]></title>
-            <link>https://crossplatformkorea.com/blog/meetup-20230531</link>
-            <guid>https://crossplatformkorea.com/blog/meetup-20230531</guid>
+            <link>https://blog.crossplatformkorea.com/blog/meetup-20230531</link>
+            <guid>https://blog.crossplatformkorea.com/blog/meetup-20230531</guid>
             <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[5월 밋업에서는 글쓴이가 UI 컴포넌트에 대한 고찰 그리고 디자인 시스템에 대해서 1시간 가량 발표를 진행했습니다.내용은 전반적으로 우리가 많은 UI 컴포넌트를 개발하면서 놓지는 중요한 요소들에 대한 설명들을 하였고 UI 컴포넌트 디자인 원칙(사용자 중심, 일관성, 단순성, 피드백)에 따라 기능 세트를 정의하고 props를 작성해나가는 방법에 대해 알아보았습니다. 마지막으로 단순성을 유지하기 위해 가능한 뺄 수 있는 모든 프롭스나 스텝들을 줄여야 하는 것을 한번 더 각인시켰습니다.]]></description>
             <content:encoded><![CDATA[<p>5월 밋업에서는 <a href="https://github.com/hyochan" target="_blank" rel="noopener noreferrer">글쓴이</a>가 UI 컴포넌트에 대한 고찰 그리고 디자인 시스템에 대해서 1시간 가량 발표를 진행했습니다.내용은 전반적으로 우리가 많은 UI 컴포넌트를 개발하면서 놓지는 중요한 요소들에 대한 설명들을 하였고 UI 컴포넌트 디자인 원칙(사용자 중심, 일관성, 단순성, 피드백)에 따라 기능 세트를 정의하고 props를 작성해나가는 방법에 대해 알아보았습니다. 마지막으로 단순성을 유지하기 위해 가능한 뺄 수 있는 모든 프롭스나 스텝들을 줄여야 하는 것을 한번 더 각인시켰습니다.</p>
 <p>마지막으로 <a href="https://www.youtube.com/shorts/2RPtB9LgfIw" target="_blank" rel="noopener noreferrer">리액트에서 inline style로 인한 리렌더 방지법을 쇼츠</a>로 제공해드렸습니다. 유익하였으면 <code>구독</code>과 <code>좋아요</code> <code>알림 설정</code> 부탁드립니다.</p>
 <div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">"완벽이란 더 이상 뺄 것이 없는 상태를 이야기한다"는 프랑스의 작가 앙투안 드 생텍쥐페리가 쓴 "리틀 프린스"에서 유래했다고 널리 알려져 있습니다. 이 구문은 정확하게 번역하면 "완벽함이란 더 이상 더할 것이 없는 것이 아니라, 더 이상 뺄 것이 없는 상태를 의미한다"라는 의미입니다. 이것은 기능과 디자인, 그리고 생활의 많은 측면에서 균형과 심플함의 중요성을 강조합니다.</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="클립보드에 코드 복사" title="복사" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <p>저희는 발표자 분들께 $150불의 발표비를 지급드리고 있으며 발표 내용도 20~50분 자율적으로 캐주얼하게 제공해주시면 됩니다. 관심있으신 분은 <a href="https://forms.gle/x6oAt28FnepAAJtp6" target="_blank" rel="noopener noreferrer">발표 신청서</a>를 통해 진행해주세요. 감사합니다 🙇🏻‍♂️</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="발표-영상-일부">발표 영상 일부<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://crossplatformkorea.com/blog/meetup-20230531#%EB%B0%9C%ED%91%9C-%EC%98%81%EC%83%81-%EC%9D%BC%EB%B6%80">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="발표-영상-일부">발표 영상 일부<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://blog.crossplatformkorea.com/blog/meetup-20230531#%EB%B0%9C%ED%91%9C-%EC%98%81%EC%83%81-%EC%9D%BC%EB%B6%80">​</a></h4>
 <p><a href="https://www.youtube.com/watch?v=Zbph_vQwGc0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=Zbph_vQwGc0</a></p>
 <div style="flex:1;margin-top:24px;margin-bottom:24px"><div class="adfit-middle-mobile-2023-05-31"></div></div>]]></content:encoded>
             <category>Meetup</category>
         </item>
         <item>
             <title><![CDATA[4월 밋업]]></title>
-            <link>https://crossplatformkorea.com/blog/meetup-20230426</link>
-            <guid>https://crossplatformkorea.com/blog/meetup-20230426</guid>
+            <link>https://blog.crossplatformkorea.com/blog/meetup-20230426</link>
+            <guid>https://blog.crossplatformkorea.com/blog/meetup-20230426</guid>
             <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[4월 밋업에서는 2월 플러터 밋업에 이어서 마이크로소프트의 MAUI 관련 내용을 담았습니다. 우선 먼저 React Native 개발자로서 MAUI를 다룬 소감을 아이디어샘 박태성님이 공유해주셨습니다.]]></description>
             <content:encoded><![CDATA[<p>4월 밋업에서는 2월 플러터 밋업에 이어서 마이크로소프트의 <a href="https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-7.0" target="_blank" rel="noopener noreferrer">MAUI</a> 관련 내용을 담았습니다. 우선 먼저 <a href="https://www.youtube.com/watch?v=9JKgfVz_Q_4" target="_blank" rel="noopener noreferrer">React Native 개발자로서 MAUI</a>를 다룬 소감을 아이디어샘 박태성님이 공유해주셨습니다.</p>
@@ -305,14 +305,14 @@
         </item>
         <item>
             <title><![CDATA[3월 밋업]]></title>
-            <link>https://crossplatformkorea.com/blog/meetup-20230329</link>
-            <guid>https://crossplatformkorea.com/blog/meetup-20230329</guid>
+            <link>https://blog.crossplatformkorea.com/blog/meetup-20230329</link>
+            <guid>https://blog.crossplatformkorea.com/blog/meetup-20230329</guid>
             <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Florian Ludot은 Avanssion Inc.의 CTO로서, 개발자가 확장 가능하고 효과적인 서비스를 구축할 수 있도록 도와주는 도구인 Storybook을 소개하는 발표를 했습니다. 이번 발표에서는 초기 디자인 단계부터 구현 및 배포, 구성 요소 라이브러리 게시 및 통합에 이르기까지 Storybook 워크플로우를 안내하였으며, UI 개발 프로세스를 혁신하고 프로젝트를 다음 단계로 끌어올릴 수 있는 팁과 모범 사례를 공유하였습니다.]]></description>
             <content:encoded><![CDATA[<p>Florian Ludot은 Avanssion Inc.의 CTO로서, 개발자가 확장 가능하고 효과적인 서비스를 구축할 수 있도록 도와주는 도구인 Storybook을 소개하는 발표를 했습니다. 이번 발표에서는 초기 디자인 단계부터 구현 및 배포, 구성 요소 라이브러리 게시 및 통합에 이르기까지 Storybook 워크플로우를 안내하였으며, UI 개발 프로세스를 혁신하고 프로젝트를 다음 단계로 끌어올릴 수 있는 팁과 모범 사례를 공유하였습니다.</p>
 <p>Florian Ludot은 프랑스에서 태어나고 자랐으며, 일본에서 4년을 보낸 후 최근에는 서울로 이사한 개발자입니다. 그는 개발 및 디자인 팀과 긴밀히 협력할 수 있는 환상적인 기회를 가졌으며, 이 분야에 대해 더 배우고 싶은 모든 사람과 지식을 공유할 수 있어 항상 기쁘다고 말하였습니다.</p>
 <p>밋업 영상은 <a href="https://www.youtube.com/watch?v=ICpn4JrnIHY" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=ICpn4JrnIHY</a> 에서 확인해주세요.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3월-밋업-사진">3월 밋업 사진<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://crossplatformkorea.com/blog/meetup-20230329#3%EC%9B%94-%EB%B0%8B%EC%97%85-%EC%82%AC%EC%A7%84">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3월-밋업-사진">3월 밋업 사진<a class="hash-link" aria-label="제목으로 바로 가기" title="제목으로 바로 가기" href="https://blog.crossplatformkorea.com/blog/meetup-20230329#3%EC%9B%94-%EB%B0%8B%EC%97%85-%EC%82%AC%EC%A7%84">​</a></h2>
 <p><img decoding="async" loading="lazy" src="https://user-images.githubusercontent.com/27461460/229788078-8a44dd2b-bdd5-4739-af7c-8194602527e2.jpg" alt="IMG_4117" class="img_ev3q">
 <img decoding="async" loading="lazy" src="https://user-images.githubusercontent.com/27461460/229788063-c46111d6-71b2-4a73-9835-2aba7f865758.jpg" alt="IMG_4117" class="img_ev3q">
 <img decoding="async" loading="lazy" src="https://user-images.githubusercontent.com/27461460/229788086-741c93e8-fa57-4be5-9e66-7c593c4a62a6.jpg" alt="IMG_4118" class="img_ev3q">
@@ -325,8 +325,8 @@
         </item>
         <item>
             <title><![CDATA[2월 밋업]]></title>
-            <link>https://crossplatformkorea.com/blog/meetup-20230222</link>
-            <guid>https://crossplatformkorea.com/blog/meetup-20230222</guid>
+            <link>https://blog.crossplatformkorea.com/blog/meetup-20230222</link>
+            <guid>https://blog.crossplatformkorea.com/blog/meetup-20230222</guid>
             <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[이번 밋업에는 조촐하게 모여서 Flutter GetX 패턴에 대한 발표가 있었습니다. 그리고 이어서 밋업 후원금을 관리하기 위해 개발한 토이 플러터 프로젝트를 공유했습니다. 프로젝트명은 WeCount로 소스코드는 깃허브에 있습니다.]]></description>
             <content:encoded><![CDATA[<p>이번 밋업에는 조촐하게 모여서 <a href="https://youtu.be/vD8ldHv5D6Q" target="_blank" rel="noopener noreferrer">Flutter GetX 패턴에 대한 발표</a>가 있었습니다. 그리고 이어서 밋업 후원금을 관리하기 위해 개발한 토이 플러터 프로젝트를 공유했습니다. 프로젝트명은 <code>WeCount</code>로 <a href="https://github.com/crossplatformkorea/wecount" target="_blank" rel="noopener noreferrer">소스코드는 깃허브</a>에 있습니다.</p>
@@ -337,8 +337,8 @@
         </item>
         <item>
             <title><![CDATA[1월 밋업]]></title>
-            <link>https://crossplatformkorea.com/blog/meetup-20230125</link>
-            <guid>https://crossplatformkorea.com/blog/meetup-20230125</guid>
+            <link>https://blog.crossplatformkorea.com/blog/meetup-20230125</link>
+            <guid>https://blog.crossplatformkorea.com/blog/meetup-20230125</guid>
             <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[첫 크로스플랫폼 코리아 밋업을 열었습니다. 앞으로 2023 계묘년에는 더욱 유익한 지식공유 시간이 있으면 합니다.]]></description>
             <content:encoded><![CDATA[<p>첫 크로스플랫폼 코리아 밋업을 열었습니다. 앞으로 2023 계묘년에는 더욱 유익한 지식공유 시간이 있으면 합니다.
@@ -355,8 +355,8 @@
         </item>
         <item>
             <title><![CDATA[11월 밋업]]></title>
-            <link>https://crossplatformkorea.com/blog/meetup-20221130</link>
-            <guid>https://crossplatformkorea.com/blog/meetup-20221130</guid>
+            <link>https://blog.crossplatformkorea.com/blog/meetup-20221130</link>
+            <guid>https://blog.crossplatformkorea.com/blog/meetup-20221130</guid>
             <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[이번 밋업은 저번 밋업에서 정해진 조별로 발표를 진행하였습니다. 수고해주신 발표자분들께 다시 한번 감사를 표합니다.]]></description>
             <content:encoded><![CDATA[<p>이번 밋업은 저번 밋업에서 정해진 조별로 발표를 진행하였습니다. 수고해주신 발표자분들께 다시 한번 감사를 표합니다.</p>
