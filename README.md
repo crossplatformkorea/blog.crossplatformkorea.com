@@ -1,11 +1,11 @@
-# [crossplatformkorea.com](https://crossplatformkorea.com)
+# [blog.crossplatformkorea.com](https://blog.crossplatformkorea.com)
 
-[![Check Website](https://github.com/crossplatformkorea/crossplatformkorea.com/actions/workflows/ci.yml/badge.svg)](https://github.com/crossplatformkorea/crossplatformkorea.com/actions/workflows/ci.yml)
-[![Deploy Website](https://github.com/crossplatformkorea/crossplatformkorea.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/crossplatformkorea/crossplatformkorea.com/actions/workflows/deploy.yml)
+[![Check Website](https://github.com/crossplatformkorea/blog.crossplatformkorea.com/actions/workflows/ci.yml/badge.svg)](https://github.com/crossplatformkorea/blog.crossplatformkorea.com/actions/workflows/ci.yml)
+[![Deploy Website](https://github.com/crossplatformkorea/blog.crossplatformkorea.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/crossplatformkorea/blog.crossplatformkorea.com/actions/workflows/deploy.yml)
 
-크로스플랫폼 코리아 공식 홈페이지 입니다.
+크로스플랫폼 코리아 공식 블로그 입니다.
 
-[crossplatformkorea.com](https://crossplatformkorea.com)
+[blog.crossplatformkorea.com](https://blog.crossplatformkorea.com)
 
 ### Installation
 

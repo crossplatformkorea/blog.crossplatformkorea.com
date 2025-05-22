@@ -7,12 +7,12 @@
 
 module.exports = {
   title: "Cross-Platform Korea",
-  url: "https://crossplatformkorea.com",
+  url: "https://blog.crossplatformkorea.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   organizationName: "crossplatformkorea",
-  projectName: "crossplatformkorea.com",
+  projectName: "blog.crossplatformkorea.com",
   onBrokenLinks: "ignore",
   i18n: {
     defaultLocale: "ko",
@@ -73,12 +73,12 @@ module.exports = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://forums.crossplatformkorea.com",
-          label: "Forums",
+          href: "https://crossplatformkorea.com",
+          label: "Homepage",
           position: "left",
         },
         {
-          href: "https://github.com/crossplatformkorea/crossplatformkorea.com",
+          href: "https://github.com/crossplatformkorea/blog.crossplatformkorea.com",
           label: "GitHub",
           position: "right",
         },
@@ -141,11 +141,11 @@ module.exports = {
             },
             {
               label: "Privacy and Policy",
-              href: "https://crossplatformkorea.com/privacyandpolicy",
+              href: "https://blog.crossplatformkorea.com/privacyandpolicy",
             },
             {
               label: "Terms of Service",
-              href: "https://crossplatformkorea.com/termsofservice",
+              href: "https://blog.crossplatformkorea.com/termsofservice",
             },
           ],
         },
@@ -169,12 +169,12 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: ({ locale, docPath }) => {
             if (locale !== "en") {
-              return `https://github.com/crossplatformkorea/crossplatformkorea.com/tree/main/${locale}`;
+              return `https://github.com/crossplatformkorea/blog.crossplatformkorea.com/tree/main/${locale}`;
             }
             // We want users to submit doc updates to the upstream/next version!
             // Otherwise we risk losing the update on the next release.
             const nextVersionDocsDirPath = "docs";
-            return `https://github.com/crossplatformkorea/crossplatformkorea.com/edit/main/${nextVersionDocsDirPath}/${docPath}`;
+            return `https://github.com/crossplatformkorea/blog.crossplatformkorea.com/edit/main/${nextVersionDocsDirPath}/${docPath}`;
           },
         },
         theme: {
