@@ -7,12 +7,12 @@
 
 module.exports = {
   title: "Cross-Platform Korea",
-  url: "https://blog.crossplatformkorea.com",
+  url: "https://doc.crossplatformkorea.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   organizationName: "crossplatformkorea",
-  projectName: "blog.crossplatformkorea.com",
+  projectName: "doc.crossplatformkorea.com",
   onBrokenLinks: "ignore",
   i18n: {
     defaultLocale: "ko",
@@ -78,7 +78,7 @@ module.exports = {
           position: "left",
         },
         {
-          href: "https://github.com/crossplatformkorea/blog.crossplatformkorea.com",
+          href: "https://github.com/crossplatformkorea/doc.crossplatformkorea.com",
           label: "GitHub",
           position: "right",
         },
@@ -141,11 +141,11 @@ module.exports = {
             },
             {
               label: "Privacy and Policy",
-              href: "https://blog.crossplatformkorea.com/privacyandpolicy",
+              href: "https://doc.crossplatformkorea.com/privacyandpolicy",
             },
             {
               label: "Terms of Service",
-              href: "https://blog.crossplatformkorea.com/termsofservice",
+              href: "https://doc.crossplatformkorea.com/termsofservice",
             },
           ],
         },
@@ -169,12 +169,12 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: ({ locale, docPath }) => {
             if (locale !== "en") {
-              return `https://github.com/crossplatformkorea/blog.crossplatformkorea.com/tree/main/${locale}`;
+              return `https://github.com/crossplatformkorea/doc.crossplatformkorea.com/tree/main/${locale}`;
             }
             // We want users to submit doc updates to the upstream/next version!
             // Otherwise we risk losing the update on the next release.
             const nextVersionDocsDirPath = "docs";
-            return `https://github.com/crossplatformkorea/blog.crossplatformkorea.com/edit/main/${nextVersionDocsDirPath}/${docPath}`;
+            return `https://github.com/crossplatformkorea/doc.crossplatformkorea.com/edit/main/${nextVersionDocsDirPath}/${docPath}`;
           },
         },
         theme: {
