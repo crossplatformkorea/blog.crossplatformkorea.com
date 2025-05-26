@@ -134,41 +134,48 @@ function Home() {
             </Translate>
           </p>
           <div className={styles.newsDescription}>
-            밋업에서 발표자를 모집하고 있습니다. 편안한 분위기에서 재미있는
-            주제로 이야기를 나눠요.
-            <br />
-            발표자께는 20만원 상당의 발표비 지급 기회가 제공되며 발표 시간은
-            20~60분 자유롭게 준비하시면 됩니다.
-            <br />
-            원할한 밋업이 진행 될 수 있도록 많은 참여 바랍니다.
             <p>
+              공식 홈페이지가 새로 오픈했습니다! 앞으로 다양한 소식과 정보를 공식 홈페이지에서 자주 소통할 예정이니 많은 방문 부탁드립니다.
               <br />
-              <div className={styles.buttons}>
-                <Link
-                  className={classnames(
-                    "button button--outline button--primary button--lg",
-                    styles.beSpeaker
-                  )}
-                  to={useBaseUrl("docs/current/speaker")}
-                >
-                  <FontAwesomeIcon
-                    icon={faMicrophone}
-                    style={{ marginRight: "10px" }}
-                  />
-                  <Translate
-                    id="homepage.beSpeaker"
-                    description="homepage.beSpeaker description"
-                  >
-                    Be our speaker
-                  </Translate>
-                </Link>
-              </div>
+              <a
+                href="https://crossplatformkorea.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  fontWeight: "bold",
+                  color: "#1976d2",
+                }}
+              >
+                https://crossplatformkorea.com
+              </a>
             </p>
-            <br />
-            차후 일정: 11월 13일 수요일 오후 7시 00분 ~ 9시 20분 45분 ~
-            <br />
-            장소: 서울 마포구 월드컵북로 35 2층 (모니모니)
-            <br />
+            <p>
+              밋업에서 발표자를 모집하고 있습니다. 편안한 분위기에서 재미있는 주제로 이야기를 나눠요.
+              <br />
+              발표자께는 20만원 상당의 발표비 지급 기회가 제공되며 발표 시간은 20~60분 자유롭게 준비하시면 됩니다.
+              <br />
+              원할한 밋업이 진행 될 수 있도록 많은 참여 바랍니다.
+            </p>
+            <div className={styles.buttons}>
+              <Link
+                className={classnames(
+                  "button button--outline button--primary button--lg",
+                  styles.beSpeaker
+                )}
+                to={useBaseUrl("docs/current/speaker")}
+              >
+                <FontAwesomeIcon
+                  icon={faMicrophone}
+                  style={{ marginRight: "10px" }}
+                />
+                <Translate
+                  id="homepage.beSpeaker"
+                  description="homepage.beSpeaker description"
+                >
+                  Be our speaker
+                </Translate>
+              </Link>
+            </div>
             <br />
           </div>
           <div className={styles.buttons}>
@@ -205,28 +212,6 @@ function Home() {
                 Apply for meetup
               </Translate>
             </Link>
-          </div>
-          {/* 후원사 */}
-          <div
-            style={{
-              marginTop: 60,
-            }}
-          >
-            <p
-              className={styles.newsTitle}
-              style={{ fontSize: "1.8em", fontWeight: "bold" }}
-            >
-              <Translate
-                id="homepage.thisMonthSponsors"
-                description="homepage.thisMonthSponsors title"
-              >
-                This month sponsors
-              </Translate>
-            </p>
-            <a href="https://www.monymony.co">
-              <img width="200" src="img/sponsors/monymony.png" />
-            </a>
-            <p style={{ fontWeight: "bold" }}>모니모니</p>
           </div>
           <AdFitMobileBanner
             unit="DAN-madoZ3R52KRmyt95"
